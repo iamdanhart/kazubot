@@ -1,1 +1,1 @@
-java -Ddiscord.token=${DISCORD_TOKEN} -jar target/Kazubot-1.0-SNAPSHOT.jar
+java -Ddiscord.token=${API_TOKEN} -jar target/Kazubot-1.0-SNAPSHOT.jar
