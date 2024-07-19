@@ -10,7 +10,7 @@
 
     <properties>
         <slf4jversion>1.7.30</slf4jversion>
-        <logbackversion>1.2.3</logbackversion>
+        <logbackversion>1.2.13</logbackversion>
         <commonslangversion>3.11</commonslangversion>
         <jdaversion>4.2.0_196</jdaversion>
     </properties>
